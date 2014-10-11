@@ -1,0 +1,41 @@
+  181  git
+  182  git config --global user.name "Chris Sowa"
+  183  git config --global user.email "csowa1@gmail.com"
+  185  git config --global user.email "zguy23@users.noreply.github.com"
+  187  git show
+  190  git clone https://github.com/zguy23/Test-repo2.git
+  191  git log
+  192  git status
+  193  git show
+  194  git ls
+  195  ls
+  196  cd Tes*
+  197  ls
+  198  cat *
+  200  ls -ltr
+  201  git init
+  203  ls -ltr
+  204  pwd
+  213  git remote -v
+  216  git remote add origin https://github.com/zguy23/Test-repo2.git
+  223  ls
+  224  vi *
+  225  ls -ltr
+  226  touch testfile
+  227  ls
+  228  vi testfile
+  233  ls -ltr
+  234  cat test*
+  235  git add .
+  236  git status
+  237  git commit
+  239  git commit -m "edit README and add new file called testfile"
+  240  git status
+  241  cat log
+  242  ls
+  243  cd ..
+  244  ls
+  245  cd -
+  246  git log
+  250  git push origin master
+  252  git remote -v
